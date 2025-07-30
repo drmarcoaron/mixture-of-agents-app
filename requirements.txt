@@ -293,3 +293,10 @@ xkit==0.0.0
 xxhash==0.0.0
 yt-dlp==2024.4.9
 zeroconf==0.131.0
+streamlit
+together
+httpx
+asyncio
+transformers
+langchain
+sentence-transformers
